@@ -2,7 +2,7 @@
 
 ### History
 
-[The Holy Roman Empire](johsieders.github.io/blog_js/history/holy_roman_empire.ipynb)
+[The Holy Roman Empire](https://johsieders.github.io/blog_js/history/holy_roman_empire.ipynb)
 
 ### Philosophy
 
